@@ -1,7 +1,7 @@
 # Ecommerce with CRM
 
 # Requirements:
-  XAMPP
+  XAMPP, 
   Export .sql file to phpmyadmin.
   
 
